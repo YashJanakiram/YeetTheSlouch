@@ -6,49 +6,18 @@ A cutting-edge browser-based system for real-time human posture detection, power
 
 ## Features
 
-- **Live Pose Detection:** Real-time video with all 17 PoseNet keypoints and skeleton
-- **Modern UI:** Sleek gradient background, custom fonts, mobile-friendly card layout
-- **Live Feedback:** Detection confidence & status displayed instantly
-- **Educational:** Perfect for students, teachers, fitness, AI/ML workshops & computer vision demos
-- **Fully Browser-Based:** No installs, works instantly on Chrome/Edge/Firefox
+- **Real-Time Pose Detection:** Capture live video and visualize 17 PoseNet keypoints and skeletons in action.
+- **Sleek, Modern Interface:** Enjoy a polished UI with a gradient background, custom fonts and a mobile-optimized card layout.
+- **Instant Feedback:** Get real-time updates on detection confidence and system status.
+- **Ideal for Learning:** Perfect for students, educators, fitness enthusiasts, AI/ML workshops and computer vision demonstrations.
+- **Fully Web-Based:** No installation needed—works instantly across Chrome, Edge and Firefox.
 
+## Try It Live
 
-
-## 🛠️ How It Works
-
-- Loads PoseNet model (via ml5.js) in the browser
-- Captures webcam video and runs pose estimation on each frame
-- Draws keypoints (face, arms, legs, etc.) and skeleton lines
-- UI adapts to detection status and confidence
-
-## 🌐 Try It Live
-
-[👉 Click here for the Live Demo](https://asadi18.github.io/Modern-Real-Time-Posture-Detection-System-ml5.js-p5.js-/)
-
-## 📦 Quick Start
-
-1. **Clone or Download:**
-   ```bash
-   git clone https://github.com/your-github-username/your-repo-name.git
-   ```
-2. **Open `index.html` in your browser** (no backend required)
-
-3. **Allow webcam access when prompted**
-
-## 📝 Customization
-
-- Colors, fonts, and panel styles can be adjusted in `index.html`
-- Add custom posture logic in `script.js` for fitness counters, alerts, etc.
+[👉 Click here for the Live Demo](https://yashjanakiram.github.io/YeetTheSlouch/)
 
 ## Tech Stack
 
 - [ml5.js](https://ml5js.org/) (PoseNet)
 - [p5.js](https://p5js.org/) (Canvas/UI)
 - Vanilla HTML/CSS
----
-
-**Star ⭐ | Fork 🍴 | PRs Welcome!**
-
----
-
-_For education, research, and demo use. For commercial/medical apps, use official TensorFlow.js PoseNet for production._
