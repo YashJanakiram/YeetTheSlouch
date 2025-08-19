@@ -12,12 +12,12 @@ A cutting-edge browser-based system for real-time human posture detection, power
 - **Ideal for Learning:** Perfect for students, educators, fitness enthusiasts, AI/ML workshops and computer vision demonstrations.
 - **Fully Web-Based:** No installation needed—works instantly across Chrome, Edge and Firefox.
 
-## Try It Live
-
-[👉 Click here for the Live Demo](https://yashjanakiram.github.io/YeetTheSlouch/)
-
 ## Tech Stack
 
 - [ml5.js](https://ml5js.org/) (PoseNet)
 - [p5.js](https://p5js.org/) (Canvas/UI)
 - Vanilla HTML/CSS
+  
+## Try It Live
+
+[👉 Click here for the Live Demo](https://yashjanakiram.github.io/YeetTheSlouch/)
